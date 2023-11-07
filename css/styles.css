@@ -1,0 +1,48 @@
+.style-for-page1 {
+    background-color: white;
+    color: black; 
+    font-family: Arial;
+    text-align: center;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    height: 300vh; 
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 20px;
+  }
+
+.style-for-page2{
+  background-color: white;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.main-heading {
+    font-size: xx-large;
+    color:black;
+  }
+.sub-heading {
+    font-size:large;
+    color: black
+  }
+
+.text {
+ color: black; 
+ font-size: medium;
+ font-weight: lighter;
+}
+
+.image-caption {
+        font-size: 16px;
+        color: rgb(2, 2, 2);
+    }
+
+
+.subTitle2 {
+    font-size: x-large; 
+    color: black; 
+    font-style: bold;
+   }
+   
